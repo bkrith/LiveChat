@@ -1,0 +1,9 @@
+.LiveChat {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    background-color: #dddddd;
+    border-radius: 1%;
+    height: 500px;
+    width: 400px
+}

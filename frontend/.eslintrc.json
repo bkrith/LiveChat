@@ -1,0 +1,25 @@
+{
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "plugins": [
+        "@typescript-eslint"
+    ],
+    "extends": [
+        "strongloop",
+        "eslint:recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:react/recommended"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 2020
+    },
+    "ignorePatterns": [
+        "*.d.ts"
+    ],
+    "rules": {
+        "indent": ["error", "tab"],
+        "comma-dangle": "off",
+        "max-len": "off"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "port": 5000,
+    "tokenKey": "",
+    "mongoURL": "",
+    "secure": {
+        "key": "./security/localhost.key",
+	    "cert": "./security/localhost.crt"
+    },
+    "frontend": {
+        "route": "/app",
+        "path": "../frontend/build"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "livechat",
+  "version": "1.0.0",
+  "description": "Live Chat",
+  "private": false,
+  "author": {
+    "email": "vassilis.kritharakis@gmail.com",
+    "name": "Vassilis Kritharakis",
+    "url": "https://bkrith.github.io/"
+  },
+  "license": "ISC"
+}

@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "ESNext",
+        "target": "ESNext",
+        "lib": [
+          "esnext"
+        ],
+        "outDir": "build",
+        "sourceMap": true,
+        "allowJs": false,
+        "moduleResolution": "Node",
+        "strict": true,
+        "declaration": true,
+        "downlevelIteration": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "typeRoots": ["./node_modules/@types"],
+        "alwaysStrict": true
+    }
+}
